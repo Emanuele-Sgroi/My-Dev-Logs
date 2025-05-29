@@ -1,5 +1,10 @@
 # May 2025
 
+## 29 May
+- Visited Ecobreeze's site
+- Familiarised with their products and platform
+- Discussed about ongoing development jobs for the company
+
 ## 28 May
 - Officially joined EcoBreeze as a Software Developer.
 - Reviewed a range of documents detailing the current system setup.
